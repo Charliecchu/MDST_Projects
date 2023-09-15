@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/charliechu/Downloads/data science/env/bin/python3" "$0" "$@"
+'''exec' "/Users/charliechu/Desktop/data science/env/bin/python3.11" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
